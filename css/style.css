@@ -1,0 +1,44 @@
+body {
+	width: 100%;
+	height: 100%;
+
+	padding: 0;
+	margin: 0;
+
+	font-family: "Verdana";
+	text-align: center;
+}
+
+h1 {
+	font-size: 150px;
+}
+
+p {
+	padding: 20px;
+	font-size: 16px;
+
+}
+
+#music-credit {
+	margin-top: 200px;
+}
+
+#party-button {
+	position: relative;
+	text-align: center;
+
+	color: #fff;
+
+	border-width: 5px;
+	border-color: #000;
+	background-color: #000;
+	padding: 20px;
+
+	width: 280px;
+	font-size: 16px;
+}
+
+#party-button:hover {
+	background-color: #fff;
+	color: #000;
+}
